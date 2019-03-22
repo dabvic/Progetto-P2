@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/sounds"/>
+    <qresource prefix="/images">
+        <file>player.png</file>
+        <file>apple.png</file>
+        <file>bomb1.png</file>
+        <file>multiplier.png</file>
+        <file>bomb.png</file>
+        <file>background.png</file>
+    </qresource>
+</RCC>
